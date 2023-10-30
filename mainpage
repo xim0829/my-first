@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>サッカーの魅力</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+        .container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>サッカーの魅力</h1>
+    </header>
+    <div class="container">
+        <h2>サッカーとは</h2>
+        <p>サッカーは世界中で人気のあるスポーツで、チーム間の戦術や個々のプレイヤーの技術が試されるスポーツです。フィールド上でボールを使って相手のゴールにシュートを決めることが目的とされています。</p>
+
+        <h2>サッカーの魅力</h2>
+        <ul>
+            <li>チームプレイ: サッカーはチームスポーツであり、チームメンバーと協力してゴールを目指すことが求められます。</li>
+            <li>戦術: チームは戦術を駆使して相手を圧倒したり、逆に守備を固めたりします。</li>
+            <li>スポーツマンシップ: サッカーはフェアプレイが重視されるスポーツであり、スポーツマンシップの精神を養うことができます。</li>
+            <li>興奮と緊張感: 試合中の興奮と緊張感は、サッカーの魅力の一部です。予想できない展開が魅力的です。</li>
+        </ul>
+
+        <h2>サッカーの人気</h2>
+        <p>サッカーは世界中で非常に人気があり、多くの国でプロリーグが存在しています。また、ワールドカップなどの国際大会も開催され、世界中のサッカーファンが熱狂します。</p>
+    </div>
+</body>
+</html>
